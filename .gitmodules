@@ -1,0 +1,15 @@
+[submodule "Binotify-App"]
+	path = Binotify-App
+	url = https://github.com/loopfree/Binotify-App
+[submodule "Binotify-Config"]
+	path = Binotify-Config
+	url = https://github.com/loopfree/Binotify-Config
+[submodule "Binotify-Premium-App"]
+	path = Binotify-Premium-App
+	url = https://github.com/loopfree/Binotify-Premium-App
+[submodule "Binotify-REST-Service"]
+	path = Binotify-REST-Service
+	url = https://github.com/loopfree/Binotify-REST-Service
+[submodule "Binotify-SOAP-Service"]
+	path = Binotify-SOAP-Service
+	url = https://github.com/loopfree/Binotify-SOAP-Service
